@@ -48,7 +48,15 @@ Waterfall  - is a Linear and sequential approach where each phase must be comple
 - Testing occurs late in the process.
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+Agile vs. Waterfall Projects:
+
+Agile is more beneficial for projects with evolving requirements and frequent changes, such as software development for startups or mobile apps (e.g., developing a ride-sharing app).
+Waterfall works best for projects with well-defined requirements and minimal changes, such as infrastructure development or government IT systems (e.g., building an airport security system).
+
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+Methods include Code reviews, automated testing, continuous integration, user acceptance testing, and adherence to coding standards.
+Importance: Ensures reliability, reduces defects, enhances user satisfaction, and minimizes long-term maintenance costs.
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
