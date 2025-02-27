@@ -4,6 +4,26 @@
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+
+Agile  -is an  Iterative and incremental approach to project management and software development.
+It Emphasizes flexibility, collaboration, and customer feedback.
+ 
+Advantages
+- Quick response to changes.
+- Regular customer feedback.
+- Improved team collaboration.
+Disadvantages
+- Less predictability.
+- Requires significant customer
+involvement
+Waterfall  - is a Linear and sequential approach where each phase must be completed before the next begins.
+ Advantages 
+- Clear structure and documentation.
+- Easy to manage due to its rigidity.
+ Disadvantages
+-Difficult to accommodate changes.
+- Testing occurs late in the process.
+
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
