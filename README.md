@@ -58,7 +58,13 @@ Methods include Code reviews, automated testing, continuous integration, user ac
 Importance: Ensures reliability, reduces defects, enhances user satisfaction, and minimizes long-term maintenance costs.
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Defining the project scope helps in successful project planning by setting clear objectives, deliverables, and boundaries, ensuring all stakeholders have a shared understanding of the project’s goals. It helps prevent scope creep, manage resources efficiently, and set realistic timelines.
+
+A Work Breakdown Structure (WBS) is a hierarchical breakdown of a project into smaller, manageable tasks. It is useful because it improves task organization, clarifies responsibilities, enhances resource allocation, and helps track progress.
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+
+Developing a detailed project schedule ensures better time management, resource allocation, and risk mitigation while improving team coordination. Gantt charts assist by visually mapping tasks, dependencies, and deadlines, making it easier to monitor progress and adjust schedules as needed.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
