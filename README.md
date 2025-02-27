@@ -5,6 +5,7 @@
 Timely delivery ensures business objectives are met, maintains client satisfaction, and prevents cost overruns. Delays can lead to financial losses, missed market opportunities, and disrupted workflows.
 
 Project Managers Can Ensure Deadlines Are Met by 
+
 Clear Planning – Define scope, set realistic timelines, and use structured methodologies like Agile.
 Effective Communication – Regular updates help identify and address issues early.
 Resource Management – Assign tasks efficiently and provide necessary support.
@@ -14,6 +15,17 @@ Regular Monitoring – Break work into smaller milestones and track KPIs.
 Control Scope Changes – Follow a structured change management process.
 Team Motivation – Recognize achievements and maintain a positive work environment.
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+Effective cost control ensures a software project stays within budget, preventing financial strain and resource misallocation. It enhances profitability, maintains stakeholder trust, and allows for better risk management.
+
+Strategies to Prevent Budget Overruns include 
+Accurate Project Estimation – Use historical data and expert input to set realistic budgets.
+Continuous Monitoring – Track expenses regularly and adjust plans as needed.
+Scope Management – Prevent scope creep by clearly defining project requirements.
+Agile Methodology – Use iterative development to identify issues early and control costs.
+Resource Optimization – Allocate resources efficiently to maximize productivity.
+Risk Management – Identify potential risks early and create mitigation plans.
+Effective Communication – Ensure clear coordination among stakeholders to avoid misunderstandings that lead to extra costs.
+
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 
 Agile  -is an  Iterative and incremental approach to project management and software development.
