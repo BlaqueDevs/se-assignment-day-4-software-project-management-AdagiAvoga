@@ -66,8 +66,15 @@ A Work Breakdown Structure (WBS) is a hierarchical breakdown of a project into s
 
 Developing a detailed project schedule ensures better time management, resource allocation, and risk mitigation while improving team coordination. Gantt charts assist by visually mapping tasks, dependencies, and deadlines, making it easier to monitor progress and adjust schedules as needed.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+
+Our software aims to address inefficiencies in data management, workflow automation, and user accessibility. These issues are significant because they impact productivity, increase operational costs, and create user frustration. By solving them, our target audience can work more efficiently and make better decisions.
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+
+Clearly defining the problem ensures that the solution directly addresses user needs, avoids unnecessary features, and improves development efficiency. It also helps in setting clear goals and measuring success effectively.
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+
+Our software simplifies complex tasks, enhances efficiency, and improves user experience. It provides an intuitive platform that streamlines operations, making processes faster and more reliable without requiring technical expertise.
 ## 11. What are the main features or functionalities that make your software stand out?
 ## 12. What data is available regarding the market size and growth potential for your software?
 ## 13. How can understanding market trends inform your software’s positioning and development?
